@@ -69,7 +69,7 @@ cumplir con la aprobación de todos los informes de laboratorio.
 
 ### Requisito para examen recuperativo
 
-El requisito para el examen recuperativo es que la nota final del curso sea mayor o igual que 3.4 y tener todos los informes de laboratorio aprovados.
+El requisito para el examen recuperativo es que la nota final del curso sea mayor o igual que 3.4 y tener todos los informes de laboratorio aprobados.
 
 ## Informes de Laboratorios
 
