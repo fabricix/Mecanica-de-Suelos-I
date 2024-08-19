@@ -3,23 +3,23 @@
 Material preparado por el Profesor Fabricio Fernández del Departamento de Ingeniería Civil de la Universidad Católica del Norte.
 
 ## Resumen
-|                                  |                                                      |
-|----------------------------------|------------------------------------------------------|
-| **Nombre del curso**             | Mecánica de Suelos I                                 |
-| **Profesor**                     | Dr. Fabricio Fernández                               |
-| **Tipo de asignatura**           | Obligatoria del ciclo profesional                    |
-| **Semestre y Créditos SCT**      | Semestre 6, 5 créditos SCT                           |
-| **Horario de clases**            | Martes y jueves, bloque E (16.15-17.45 h)            |
-| **Sala de clases**               | Edificio Y3, sala 102                                |
-| **Aprobación**                   | Nota final mayor o igual a 4: NF $\geq$ 4            |
-| **Número de evaluaciones**       | Tres evaluaciones, C1, C2 y C3                       |
-| **Examen recuperativo**          | Nota final mayor o igual a 3.4: NF $\geq$ 3.4        |
-| **Laboratorios**                 | Ocho laboratorios presenciales obligatorios          |
-| **Horario de laboratorio**       | Miércoles, bloque D (14.30-15.50 h) y E              |
-| **Lugar de laboratorio**         | Laboratorio de ensayos Liemun-UCN                    |
-| **Horario de consultas**         | Miércoles y viernes, Oficina 216 - 16 h              |
-| **Ayudante**                     | No definido                                          |
-| **Horario de ayudantía**         | No definido                                          |
+|                              |                                                      |
+|:-----------------------------|:-----------------------------------------------------|
+| **Nombre del curso**         | Mecánica de Suelos I                                 |
+| **Profesor**                 | Dr. Fabricio Fernández                               |
+| **Tipo de asignatura**       | Obligatoria del ciclo profesional                    |
+| **Semestre y Créditos SCT**  | Semestre 6, 5 créditos SCT                           |
+| **Horario de clases**        | Martes y jueves, bloque E (16.15-17.45 h)            |
+| **Sala de clases**           | Edificio Y3, sala 102                                |
+| **Aprobación**               | Nota final mayor o igual a 4: NF $\geq$ 4            |
+| **Número de evaluaciones**   | Tres evaluaciones, C1, C2 y C3                       |
+| **Examen recuperativo**      | Nota final mayor o igual a 3.4: NF $\geq$ 3.4        |
+| **Laboratorios**             | Ocho laboratorios presenciales obligatorios          |
+| **Horario de laboratorio**   | Miércoles, bloque D (14.30-15.50 h) y E              |
+| **Lugar de laboratorio**     | Laboratorio de ensayos Liemun-UCN                    |
+| **Horario de consultas**     | Miércoles y viernes, Oficina 216 - 16 h              |
+| **Ayudante**                 | No definido                                          |
+| **Horario de ayudantía**     | No definido                                          |
 
 ## Contenido del curso y evaluaciones
 
@@ -27,27 +27,27 @@ Los temas del curso se dividen en doce temas dictados durante el semestre. Los t
 
 **Tabla de temas y evaluaciones**
 
-| **Tema** | **Entra en evaluación** |
-|-|-|
-| 1. Introducción a la mecánica de suelos | C1 |
-| 2. Formación de suelos y rocas | C1 |
-| 3. Relación entre las fases del suelo | C1 |
-| 4. Análisis granulométrico | C1 |
-| 5. Límites de consistencia | C1 |
-| 6. Clasificación de suelos | C1 |
-| 7. Muestreo de suelos | C2 |
-| 8. Compactación de suelos | C2 |
-| 9. Determinación peso específico in situ | C2 |
-| 10. Propiedades hidráulicas de los suelos | C2 |
-| 11. Tensiones en la masa de suelo | C3 |
-| 12. Asentamientos | C3 |
+| **Id**| **Tema** | **Evaluación** |
+|:--:|:-|:-:|
+| 1| Introducción a la mecánica de suelos | C1 |
+| 2| Formación de suelos y rocas | C1 |
+| 3| Relación entre las fases del suelo | C1 |
+| 4| Análisis granulométrico | C1 |
+| 5| Límites de consistencia | C1 |
+| 6| Clasificación de suelos | C1 |
+| 7| Muestreo de suelos | C2 |
+| 8| Compactación de suelos | C2 |
+| 9| Determinación peso específico in situ | C2 |
+| 10| Propiedades hidráulicas de los suelos | C2 |
+| 11| Tensiones en la masa de suelo | C3 |
+| 12| Asentamientos | C3 |
 
 Los temas por cada evaluación queda definidos asi:
 
 **Tabla de evaluaciones y temas**
 
 | **Evaluación** | **Temas** |
-| -- | -- |
+| :--: | :-- |
 |C1 | 1,2,3,4,5,6 |
 |C2 | 7,8,9,10 |
 |C3 | 11,12 |
@@ -104,8 +104,8 @@ Las evaluaciones serán efectuadas en los días detallados en la tabla de fechas
 
 **Tabla de fechas de evaluaciones**
 
-| **Id** | **Temas** | **Fecha**  |
-|----|---------------|-----------|
+|**Id**| **Temas** | **Fecha**  |
+|:---:|:-------------|:-----------|
 | E1 | 1-2-3-4-5-6   | 3/10/2024 |
 | E2 | 7-8-9-10      | 5/11/2024 |
 | E3 | 11-12         | 3/12/2024 |
@@ -118,7 +118,7 @@ Las ayudantías  previstas están detalladas según la tabla de fechas de ayudan
 **Tabla de fechas de ayudantías**
 
 | **Id** | **Descripción** | **Fecha** |
-|--------|-----------------|-----------|
+|:-------:|:----------------|:----------|
 | 1      | Fases del suelo | 9/9/2024  |
 | 2      | Granulométria y consistencia | 23/9/2024 |
 | 3      | Clasificación de suelos | 30/9/2024  |
@@ -135,7 +135,7 @@ Los ensayos a ser realizados y las fechas correspondientes de su realización es
 **Tabla de ensayos de laboratorio**
 
 | **Id** | **Descripción**                       | **Fecha**     |
-|--------|-----------------------------------|-----------|
+|:--------:|:-----------------------------------|:-----------|
 | 1      | Inspección visual                 | 4/9/2024  |
 | 2      | Análisis Granulométrico           | 11/9/2024 |
 | 3      | Límites de Consistencia            | 25/9/2024 |
@@ -153,7 +153,7 @@ Los contenidos de la asignatura serán dictados según la programación dada por
 **Tabla semanal de actividades**
 
 | **Semana** | **Día**       | **Fecha**     | **Actividad**             |
-|--------|-----------|-----------|-----------------------|
+|:--------|:-----------|:-----------|:-----------------------|
 | 1      | Martes    | 20/8/2024  | Tema 1                |
 |        | Jueves    | 22/8/2024  | Tema 2                |
 | 2      | Martes    | 27/8/2024  | Tema 2                |
@@ -210,7 +210,7 @@ Los contenidos de la asignatura serán dictados según la programación dada por
 **Tabla de horarios de bloques**
 
 | **Bloque** | **Hora** |
-| :---: | :---: |
+| :---: | :--- |
 | A | $08: 10-09: 30$ h |
 | B | $09: 55-11: 15$ h |
 | C | $11: 40-13: 00$ h |
