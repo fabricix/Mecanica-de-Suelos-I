@@ -17,9 +17,10 @@ Material preparado por el Profesor Fabricio Fernández del Departamento de Ingen
 | **Laboratorios**             | Ocho laboratorios presenciales obligatorios          |
 | **Horario de laboratorio**   | Miércoles, bloque D (14.30-15.50 h) y E              |
 | **Lugar de laboratorio**     | Laboratorio de ensayos Liemun-UCN                    |
+| **Ayudante laboratorio**     | Martín Espejo Valenzuela                             |
 | **Horario de consultas**     | Miércoles y viernes, Oficina 216 - 16 h              |
-| **Ayudante**                 | No definido                                          |
 | **Horario de ayudantía**     | No definido                                          |
+| **Ayudante**                 | No definido                                          |
 
 ## Contenido del curso y evaluaciones
 
@@ -134,26 +135,24 @@ Los ensayos a ser realizados y las fechas correspondientes de su realización es
 
 **Tabla de ensayos de laboratorio**
 
-| **Id** | **Descripción**                       | **Fecha**     |
-|:--------:|:-----------------------------------|:-----------|
-| 1      | Inspección visual                 | 4/9/2024  |
-| 2      | Análisis Granulométrico           | 11/9/2024 |
-| 3      | Límites de Consistencia            | 25/9/2024 |
-| 4      | Densidad Partículas Sólidas        | 9/10/2024 |
-| 5      | Densidad Relativa, Máxima y Mínima | 16/10/2024|
-| 6      | Densidad In Situ                   | 23/10/2024|
-| 7      | Ensayos Proctor                    | 6/11/2024 |
-| 8      | Capacidad de Soporte               | 13/11/2024|
-
-
+| **Id** | **Descripción**                     | **Fecha** |
+|:------:|:------------------------------------|:----------|
+| 1      | Inspección visual                   | 4/9/2024  |
+| 2      | Análisis Granulométrico             | 11/9/2024 |
+| 3      | Límites de Consistencia             | 25/9/2024 |
+| 4      | Densidad Partículas Sólidas         | 9/10/2024 |
+| 5      | Densidad Relativa, Máxima y Mínima  | 16/10/2024|
+| 6      | Densidad In Situ                    | 23/10/2024|
+| 7      | Ensayos Proctor                     | 6/11/2024 |
+| 8      | Capacidad de Soporte                | 13/11/2024|
 
 ### Planificación semanal de contenidos
 Los contenidos de la asignatura serán dictados según la programación dada por la tabla de fechas de contenidos.
 
 **Tabla semanal de actividades**
 
-| **Semana** | **Día**       | **Fecha**     | **Actividad**             |
-|:--------|:-----------|:-----------|:-----------------------|
+|**Semana** | **Día**| **Fecha**  | **Actividad**         |
+|:-------|:----------|:-----------|:----------------------|
 | 1      | Martes    | 20/8/2024  | Tema 1                |
 |        | Jueves    | 22/8/2024  | Tema 2                |
 | 2      | Martes    | 27/8/2024  | Tema 2                |
