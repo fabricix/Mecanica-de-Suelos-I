@@ -1,6 +1,11 @@
 
 # Mecánica de Suelos I
+# Reglamento y planificación semestral
+
 Material preparado por el Profesor Fabricio Fernández del Departamento de Ingeniería Civil de la Universidad Católica del Norte.
+
+- Correo electrónico de contacto: <fabricio.fernandez@ucn.cl>
+- Sitio web: <https://sites.google.com/ucn.cl/prof-fabricio-fernandez/>
 
 ## Resumen
 |                              |                                                      |
